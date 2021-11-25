@@ -1,4 +1,4 @@
-# FedLearn-algo
+# Fedlearnalgo
 
 ## Installation
 ### Development Environment Checklist
